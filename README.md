@@ -1,2 +1,1 @@
-# Rogotral
-Malware
+GDI MALWARE
